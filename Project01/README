@@ -1,0 +1,21 @@
+Project README
+
+Overview
+project1.ipynb contains code for data analysis and visualization. project01.pdf provides the answers.
+
+Requirements
+Download all CSV files provided by the class.
+Install necessary packages as listed in the import statements of the notebook.
+
+Usage
+Run:
+jupyter notebook project1.ipynb
+Execute cells sequentially.
+
+Files
+project1.ipynb - Main code.
+project01.pdf - Answer reference.
+data/ - Contains required datasets.
+
+
+
